@@ -1,0 +1,55 @@
+.lesson_two {
+    color: aquamarine;
+}
+
+.table {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    display: block;
+    margin-left: 0;
+}
+
+.right {
+    display: block;
+    margin-right: 0;
+}
+
+.loh {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    white-space: pre-line;
+}
+
+.test {
+    width: 900px;
+    justify-content: space-between;
+}
+
+.container_two_translate {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    margin: 1000px auto;
+}
+
+.two {
+    display: block;
+    white-space: pre-line;
+}
+
+.line {
+    display: block;
+    margin-top: 5px;
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
